@@ -1,0 +1,6 @@
+Upgrading RouterOS
+If you are already running RouterOS, upgrading to the latest version can be done by clicking on "Check For Updates" in QuickSet or System > Packages menu in WebFig or WinBox.
+
+See the documentation for more information about upgrading and release types.
+
+To manage your router, use the web interface, or download the maintenance utilities. Winbox to connect to your device, Dude to monitor your network and Netinstall for recovery and re-installation.
